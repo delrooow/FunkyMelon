@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-title-sleek-lower-third.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

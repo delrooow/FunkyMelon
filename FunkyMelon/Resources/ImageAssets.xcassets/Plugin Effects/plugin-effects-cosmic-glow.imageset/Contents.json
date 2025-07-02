@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-effects-cosmic-glow.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

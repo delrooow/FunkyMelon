@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-transitions-luminous-roll.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
