@@ -1,0 +1,1445 @@
+[
+  {
+    "id": "97d60e68-4363-491a-8ff0-b0dd13ce269f",
+    "category": "Transitions",
+    "title": "Nebula Roll",
+    "subtitle": "Free transitions plugin",
+    "description": "Nebula Roll adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.5.9",
+    "iconAsset": "plugin-transitions-nebula-roll",
+    "heroAsset": "plugin-transitions-nebula-roll"
+  },
+  {
+    "id": "aa21af44-00c4-42d1-aede-0108699d2ba0",
+    "category": "Transitions",
+    "title": "Aurora Slide",
+    "subtitle": "Free transitions plugin",
+    "description": "Aurora Slide adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": true,
+    "version": "1.0.8",
+    "iconAsset": "plugin-transitions-aurora-slide",
+    "heroAsset": "plugin-transitions-aurora-slide"
+  },
+  {
+    "id": "0436c0bb-2a30-4c50-8fbe-4ecf9466baaf",
+    "category": "Transitions",
+    "title": "Cinematic Slide",
+    "subtitle": "Premium transitions plugin",
+    "description": "Cinematic Slide adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 44.94,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.9.3",
+    "iconAsset": "plugin-transitions-cinematic-slide",
+    "heroAsset": "plugin-transitions-cinematic-slide"
+  },
+  {
+    "id": "57267182-d99b-4736-be63-1f97bca8f777",
+    "category": "Transitions",
+    "title": "Cosmic Dissolve",
+    "subtitle": "Free transitions plugin",
+    "description": "Cosmic Dissolve adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.9.8",
+    "iconAsset": "plugin-transitions-cosmic-dissolve",
+    "heroAsset": "plugin-transitions-cosmic-dissolve"
+  },
+  {
+    "id": "b9a14035-1cc8-4e10-8a92-1f5f6b06ec27",
+    "category": "Transitions",
+    "title": "Quantum Push",
+    "subtitle": "Premium transitions plugin",
+    "description": "Quantum Push adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 48.29,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.9.4",
+    "iconAsset": "plugin-transitions-quantum-push",
+    "heroAsset": "plugin-transitions-quantum-push"
+  },
+  {
+    "id": "f4f2b51a-db35-4460-ac8d-5909afd99e3c",
+    "category": "Transitions",
+    "title": "Pulse Wipe",
+    "subtitle": "Free transitions plugin",
+    "description": "Pulse Wipe adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.2.2",
+    "iconAsset": "plugin-transitions-pulse-wipe",
+    "heroAsset": "plugin-transitions-pulse-wipe"
+  },
+  {
+    "id": "c4c95a9d-abfc-40e3-b1bb-1cf02275e272",
+    "category": "Transitions",
+    "title": "Zenith Fade",
+    "subtitle": "Premium transitions plugin",
+    "description": "Zenith Fade adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 40.37,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.6.8",
+    "iconAsset": "plugin-transitions-zenith-fade",
+    "heroAsset": "plugin-transitions-zenith-fade"
+  },
+  {
+    "id": "a3af8b6e-7ea1-4010-b292-ea97d5507aa8",
+    "category": "Transitions",
+    "title": "Solar Wipe",
+    "subtitle": "Premium transitions plugin",
+    "description": "Solar Wipe adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 45.10,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.1.1",
+    "iconAsset": "plugin-transitions-solar-wipe",
+    "heroAsset": "plugin-transitions-solar-wipe"
+  },
+  {
+    "id": "c4ba174b-01dc-474c-ac79-f4fc99a4b18d",
+    "category": "Transitions",
+    "title": "Luminous Roll",
+    "subtitle": "Premium transitions plugin",
+    "description": "Luminous Roll adds a transitions effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 10.24,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.6.7",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-transitions-luminous-roll",
+    "heroAsset": "plugin-transitions-luminous-roll"
+  },
+  {
+    "id": "27cb5d35-1f21-455e-92a6-3452d43836ab",
+    "category": "Transitions",
+    "title": "Nebula Swipe",
+    "subtitle": "Premium transitions plugin",
+    "description": "Nebula Swipe adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 38.94,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "2.2.2",
+    "iconAsset": "plugin-transitions-nebula-swipe",
+    "heroAsset": "plugin-transitions-nebula-swipe"
+  },
+  {
+    "id": "3b5cc703-16f1-405c-bb43-14a836ac83ec",
+    "category": "Transitions",
+    "title": "Aurora Dissolve",
+    "subtitle": "Premium transitions plugin",
+    "description": "Aurora Dissolve adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 11.28,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.5.1",
+    "iconAsset": "plugin-transitions-aurora-dissolve",
+    "heroAsset": "plugin-transitions-aurora-dissolve"
+  },
+  {
+    "id": "7d8e9d8b-9ca4-4ab1-9685-4c396e34240e",
+    "category": "Transitions",
+    "title": "Aurora Push",
+    "subtitle": "Premium transitions plugin",
+    "description": "Aurora Push adds a transition effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 20.82,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.0.8",
+    "iconAsset": "plugin-transitions-aurora-push",
+    "heroAsset": "plugin-transitions-aurora-push"
+  },
+  {
+    "id": "725286d4-997d-4a67-a615-86f3ee69d83e",
+    "category": "Effects",
+    "title": "Nebula Beam",
+    "subtitle": "Free effects plugin",
+    "description": "Nebula Beam adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.3.0",
+    "iconAsset": "plugin-effects-nebula-beam",
+    "heroAsset": "plugin-effects-nebula-beam"
+  },
+  {
+    "id": "ffc4f08c-dd2d-491f-aa90-4aa9f3e24673",
+    "category": "Effects",
+    "title": "Zenith Flash",
+    "subtitle": "Free effects plugin",
+    "description": "Zenith Flash adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.5.6",
+    "iconAsset": "plugin-effects-zenith-flash",
+    "heroAsset": "plugin-effects-zenith-flash"
+  },
+  {
+    "id": "a271955d-13f2-4bb5-8853-7c87a78efe0f",
+    "category": "Effects",
+    "title": "Cosmic Burst",
+    "subtitle": "Premium effects plugin",
+    "description": "Cosmic Burst adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 38.22,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.6.3",
+    "iconAsset": "plugin-effects-cosmic-burst",
+    "heroAsset": "plugin-effects-cosmic-burst"
+  },
+  {
+    "id": "1fadaff5-7ca1-4fc3-bf83-0d06a060166e",
+    "category": "Effects",
+    "title": "Cosmic Glow",
+    "subtitle": "Premium effects plugin",
+    "description": "Cosmic Glow adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 59.67,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.1.3",
+    "iconAsset": "plugin-effects-cosmic-glow",
+    "heroAsset": "plugin-effects-cosmic-glow"
+  },
+  {
+    "id": "d75eead5-3778-4a72-96de-2c2ff45874e6",
+    "category": "Effects",
+    "title": "Nebula Radiance",
+    "subtitle": "Premium effects plugin",
+    "description": "Nebula Radiance adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 18.53,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.1.0",
+    "iconAsset": "plugin-effects-nebula-radiance",
+    "heroAsset": "plugin-effects-nebula-radiance"
+  },
+  {
+    "id": "9b390805-08c8-4b9b-b82b-5ea238501339",
+    "category": "Effects",
+    "title": "Quantum Spark",
+    "subtitle": "Free effects plugin",
+    "description": "Quantum Spark adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "2.1.2",
+    "iconAsset": "plugin-effects-quantum-spark",
+    "heroAsset": "plugin-effects-quantum-spark"
+  },
+  {
+    "id": "29ac1053-1bf2-407c-8f27-45f5826ea3a4",
+    "category": "Effects",
+    "title": "Zenith Radiance",
+    "subtitle": "Premium effects plugin",
+    "description": "Zenith Radiance adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 18.24,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": true,
+    "version": "1.4.4",
+    "iconAsset": "plugin-effects-zenith-radiance",
+    "heroAsset": "plugin-effects-zenith-radiance"
+  },
+  {
+    "id": "8323b946-7b68-40fe-9c15-477a896c0660",
+    "category": "Effects",
+    "title": "Pulse Burst",
+    "subtitle": "Premium effects plugin",
+    "description": "Pulse Burst adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 51.83,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.5.7",
+    "iconAsset": "plugin-effects-pulse-burst",
+    "heroAsset": "plugin-effects-pulse-burst"
+  },
+  {
+    "id": "55e672f8-68f0-4c3d-b25f-d27f73c8355c",
+    "category": "Effects",
+    "title": "Zenith Burst",
+    "subtitle": "Premium effects plugin",
+    "description": "Zenith Burst adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 26.62,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.0.2",
+    "iconAsset": "plugin-effects-zenith-burst",
+    "heroAsset": "plugin-effects-zenith-burst"
+  },
+  {
+    "id": "330a1783-a0fd-411a-85b0-a376574553a3",
+    "category": "Effects",
+    "title": "Quantum Radiance",
+    "subtitle": "Premium effects plugin",
+    "description": "Quantum Radiance adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 25.05,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": true,
+    "version": "2.2.5",
+    "iconAsset": "plugin-effects-quantum-radiance",
+    "heroAsset": "plugin-effects-quantum-radiance"
+  },
+  {
+    "id": "8db3bac2-c2ef-4857-b047-52e271cc4bca",
+    "category": "Effects",
+    "title": "Aurora Burst",
+    "subtitle": "Free effects plugin",
+    "description": "Aurora Burst adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.5.3",
+    "iconAsset": "plugin-effects-aurora-burst",
+    "heroAsset": "plugin-effects-aurora-burst"
+  },
+  {
+    "id": "1ee90e23-65be-4dc9-8aa9-67dcc93ba0b2",
+    "category": "Effects",
+    "title": "Solar Spark",
+    "subtitle": "Premium effects plugin",
+    "description": "Solar Spark adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 12.94,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.4.4",
+    "iconAsset": "plugin-effects-solar-spark",
+    "heroAsset": "plugin-effects-solar-spark"
+  },
+  {
+    "id": "bce53fb1-b745-4613-9cf8-ec9d9acd4f29",
+    "category": "Effects",
+    "title": "Cinematic Glow",
+    "subtitle": "Premium effects plugin",
+    "description": "Cinematic Glow adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 21.48,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.9.4",
+    "iconAsset": "plugin-effects-cinematic-glow",
+    "heroAsset": "plugin-effects-cinematic-glow"
+  },
+  {
+    "id": "457d645a-f69c-437c-967a-9ee9c6012eed",
+    "category": "Effects",
+    "title": "Pulse Flare",
+    "subtitle": "Premium effects plugin",
+    "description": "Pulse Flare adds a effects effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 41.98,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.2.1",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-effects-pulse-flare",
+    "heroAsset": "plugin-effects-pulse-flare"
+  },
+  {
+    "id": "749be878-9950-4b77-9c72-6311039bdf39",
+    "category": "Effects",
+    "title": "Cinematic Spark",
+    "subtitle": "Premium effects plugin",
+    "description": "Cinematic Spark adds a effects effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "11 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 34.8,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.3.0",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-effects-cinematic-spark",
+    "heroAsset": "plugin-effects-cinematic-spark"
+  },
+  {
+    "id": "3bbdeebd-f2ca-47a2-b76d-0f4aad85edbd",
+    "category": "Effects",
+    "title": "Aurora Flash",
+    "subtitle": "Premium effects plugin",
+    "description": "Aurora Flash adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 32.27,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.2.8",
+    "iconAsset": "plugin-effects-aurora-flash",
+    "heroAsset": "plugin-effects-aurora-flash"
+  },
+  {
+    "id": "b7f115f7-4e72-4bc6-9bf1-a1b453e53ea9",
+    "category": "Effects",
+    "title": "Nebula Spark",
+    "subtitle": "Free effects plugin",
+    "description": "Nebula Spark adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.5.1",
+    "iconAsset": "plugin-effects-nebula-spark",
+    "heroAsset": "plugin-effects-nebula-spark"
+  },
+  {
+    "id": "780c8d83-4b30-4a75-9683-cef9602298e4",
+    "category": "Effects",
+    "title": "Solar Flash",
+    "subtitle": "Free effects plugin",
+    "description": "Solar Flash adds a effect effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "2.5.4",
+    "iconAsset": "plugin-effects-solar-flash",
+    "heroAsset": "plugin-effects-solar-flash"
+  },
+  {
+    "id": "72c044cf-2502-4044-a863-d2ac6cab1149",
+    "category": "Titles",
+    "title": "Essential Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Essential Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 40.28,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.3.3",
+    "iconAsset": "plugin-title-essential-lower-third",
+    "heroAsset": "plugin-title-essential-lower-third"
+  },
+  {
+    "id": "2bb1f869-59cb-4aa5-9daa-02b178e21415",
+    "category": "Titles",
+    "title": "Minimal Lower Third",
+    "subtitle": "Free titles plugin",
+    "description": "Minimal Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.6.8",
+    "iconAsset": "plugin-title-minimal-lower-third",
+    "heroAsset": "plugin-title-minimal-lower-third"
+  },
+  {
+    "id": "e2727a4a-a834-4645-9497-1e8c660d33c7",
+    "category": "Titles",
+    "title": "Clean Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Clean Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 59.55,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.7.6",
+    "iconAsset": "plugin-title-clean-lower-third",
+    "heroAsset": "plugin-title-clean-lower-third"
+  },
+  {
+    "id": "8a68afb7-9052-4323-9c5e-7d5ab00b8e99",
+    "category": "Titles",
+    "title": "Simple Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Simple Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 59.42,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.7.4",
+    "iconAsset": "plugin-title-simple-lower-third",
+    "heroAsset": "plugin-title-simple-lower-third"
+  },
+  {
+    "id": "40033371-71c9-463b-837c-02d00c28909d",
+    "category": "Titles",
+    "title": "Solar Intro",
+    "subtitle": "Premium titles plugin",
+    "description": "Solar Intro adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "11 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 20.52,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.6.9",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-solar-intro",
+    "heroAsset": "plugin-title-solar-intro"
+  },
+  {
+    "id": "7cdaa5c8-ffa3-476e-82e8-27ce96edea1e",
+    "category": "Titles",
+    "title": "Cosmic Signature",
+    "subtitle": "Premium titles plugin",
+    "description": "Cosmic Signature adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 45.72,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.1.6",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-cosmic-signature",
+    "heroAsset": "plugin-title-cosmic-signature"
+  },
+  {
+    "id": "baa9cf21-acb1-46f4-a06f-a2925bcc4864",
+    "category": "Titles",
+    "title": "Solar Tagline",
+    "subtitle": "Premium titles plugin",
+    "description": "Solar Tagline adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "5 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 46.05,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.8.7",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-solar-tagline",
+    "heroAsset": "plugin-title-solar-tagline"
+  },
+  {
+    "id": "ec943e1a-1870-40f9-838a-087f2337f851",
+    "category": "Titles",
+    "title": "Aurora Intro",
+    "subtitle": "Premium titles plugin",
+    "description": "Aurora Intro adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "7 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 22.03,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.2.3",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-aurora-intro",
+    "heroAsset": "plugin-title-aurora-intro"
+  },
+  {
+    "id": "f9697da8-535b-47f6-8c6e-e0b20e3be1a3",
+    "category": "Titles",
+    "title": "Elegant Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Elegant Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 31.55,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.2.9",
+    "iconAsset": "plugin-title-elegant-lower-third",
+    "heroAsset": "plugin-title-elegant-lower-third"
+  },
+  {
+    "id": "d3848b94-df37-408a-91c8-b9fdabae3673",
+    "category": "Titles",
+    "title": "Cinematic Headline",
+    "subtitle": "Premium titles plugin",
+    "description": "Cinematic Headline adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "7 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 41.57,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.6.6",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-cinematic-headline",
+    "heroAsset": "plugin-title-cinematic-headline"
+  },
+  {
+    "id": "3e430147-7955-44e8-881f-8741db24051c",
+    "category": "Titles",
+    "title": "Dynamic Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Dynamic Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 13.78,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.6.5",
+    "iconAsset": "plugin-title-dynamic-lower-third",
+    "heroAsset": "plugin-title-dynamic-lower-third"
+  },
+  {
+    "id": "8e880fdc-6ed4-45ef-ad8b-334435e094fa",
+    "category": "Titles",
+    "title": "Nebula Overlay",
+    "subtitle": "Free titles plugin",
+    "description": "Nebula Overlay adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "2.6.0",
+    "iconAsset": "plugin-title-nebula-overlay",
+    "heroAsset": "plugin-title-nebula-overlay"
+  },
+  {
+    "id": "9096119c-a066-4968-b8ce-ff582d9a5178",
+    "category": "Titles",
+    "title": "Modern Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Modern Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 27.42,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.0.9",
+    "iconAsset": "plugin-title-modern-lower-third",
+    "heroAsset": "plugin-title-modern-lower-third"
+  },
+  {
+    "id": "49005fb1-8b48-47c4-84cb-7565d87d7f78",
+    "category": "Titles",
+    "title": "Zenith Lower Third",
+    "subtitle": "Free titles plugin",
+    "description": "Zenith Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": true,
+    "requiresUpdate": false,
+    "version": "1.9.9",
+    "iconAsset": "plugin-title-zenith-lower-third",
+    "heroAsset": "plugin-title-zenith-lower-third"
+  },
+  {
+    "id": "11aefe58-fb16-4a5e-a488-a371b2ca6ff6",
+    "category": "Titles",
+    "title": "Aurora Tagline",
+    "subtitle": "Premium titles plugin",
+    "description": "Aurora Tagline adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "9 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 49.80,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.6.5",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-aurora-tagline",
+    "heroAsset": "plugin-title-aurora-tagline"
+  },
+  {
+    "id": "2a64d0c7-cad7-4b3b-a38f-201fc5e0dfb0",
+    "category": "Titles",
+    "title": "Zenith Label",
+    "subtitle": "Premium titles plugin",
+    "description": "Zenith Label adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 30.60,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.6.1",
+    "requiresUpdate": true,
+    "free": false,
+    "iconAsset": "plugin-title-zenith-label",
+    "heroAsset": "plugin-title-zenith-label"
+  },
+  {
+    "id": "e95599f5-3349-467b-af7b-3230a1fccc37",
+    "category": "Titles",
+    "title": "Quantum Tagline",
+    "subtitle": "Premium titles plugin",
+    "description": "Quantum Tagline adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "15 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 22.62,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "1.3.0",
+    "requiresUpdate": false,
+    "free": false,
+    "iconAsset": "plugin-title-quantum-tagline",
+    "heroAsset": "plugin-title-quantum-tagline"
+  },
+  {
+    "id": "adf17e24-e52b-4388-9466-61e75456921d",
+    "category": "Titles",
+    "title": "Vibrant Lower Third",
+    "subtitle": "Free titles plugin",
+    "description": "Vibrant Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "8 presets",
+      "Step-by-step guide",
+      "Monthly updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.5.4",
+    "iconAsset": "plugin-title-vibrant-lower-third",
+    "heroAsset": "plugin-title-vibrant-lower-third"
+  },
+  {
+    "id": "7202bc6e-2596-4f70-aad3-8f0aee17c66f",
+    "category": "Titles",
+    "title": "Pulse Intro",
+    "subtitle": "Premium titles plugin",
+    "description": "Pulse Intro adds a titles effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "7 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 40.38,
+      "currency": "USD"
+    },
+    "installed": false,
+    "lastUsed": null,
+    "version": "2.4.2",
+    "requiresUpdate": true,
+    "free": false,
+    "iconAsset": "plugin-title-pulse-intro",
+    "heroAsset": "plugin-title-pulse-intro"
+  },
+  {
+    "id": "fd76edf8-dfa1-4dfe-a389-43ffcbd7a37a",
+    "category": "Titles",
+    "title": "Vivid Lower Third",
+    "subtitle": "Premium titles plugin",
+    "description": "Vivid Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 44.39,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.5.3",
+    "iconAsset": "plugin-title-vivid-lower-third",
+    "heroAsset": "plugin-title-vivid-lower-third"
+  },
+  {
+    "id": "b9cf2b8f-80e7-4c0f-af96-0341999a0df4",
+    "category": "Titles",
+    "title": "Classic Lower Third",
+    "subtitle": "Free titles plugin",
+    "description": "Classic Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "14 presets",
+      "Example project files",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "2.7.7",
+    "iconAsset": "plugin-title-classic-lower-third",
+    "heroAsset": "plugin-title-classic-lower-third"
+  },
+  {
+    "id": "844c1abf-139f-4325-a066-60e0967ae2b6",
+    "category": "Titles",
+    "title": "Sleek Lower Third",
+    "subtitle": "Free titles plugin",
+    "description": "Sleek Lower Third adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "10 presets",
+      "Quick-start tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 0.00,
+      "currency": "USD"
+    },
+    "free": true,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.0.8",
+    "iconAsset": "plugin-title-sleek-lower-third",
+    "heroAsset": "plugin-title-sleek-lower-third"
+  },
+  {
+    "id": "c7f0af0d-5f43-4fc8-a6ef-143bb0a9ea80",
+    "category": "Titles",
+    "title": "Retro Headline",
+    "subtitle": "Premium titles plugin",
+    "description": "Retro Headline adds a title effect to elevate your storytelling in Final Cut Pro. Perfect for creators seeking fresh looks.",
+    "includes": [
+      "12 presets",
+      "In-depth tutorial",
+      "Lifetime updates"
+    ],
+    "guides": [
+      "https://example.com/guide/quick-start",
+      "https://example.com/guide/tips-tricks",
+      "https://example.com/guide/deep-dive"
+    ],
+    "price": {
+      "amount": 56.59,
+      "currency": "USD"
+    },
+    "free": false,
+    "installed": false,
+    "requiresUpdate": false,
+    "version": "1.2.3",
+    "iconAsset": "plugin-title-retro-headline",
+    "heroAsset": "plugin-title-retro-headline"
+  }
+]

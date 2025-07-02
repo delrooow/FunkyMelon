@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-transitions-nebula-swipe.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

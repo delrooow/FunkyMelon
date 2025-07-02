@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-effects-aurora-flash.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

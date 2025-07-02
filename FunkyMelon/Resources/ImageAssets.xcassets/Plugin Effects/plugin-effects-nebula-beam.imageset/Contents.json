@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "plugin-effects-nebula-beam.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
