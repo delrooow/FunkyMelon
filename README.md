@@ -29,6 +29,25 @@ Browse 🎞 *Transitions*, ✨ *Effects*, and 🔤 *Titles*; install or update f
 
 ---
 
+## 📝 Approach, Trade-offs & Next Steps
+
+### Approach
+* **Single source of truth:** `PluginStore` owns all plug-in state and mutations, ensuring each view stays in sync with a simple `@EnvironmentObject`.
+* **Reusable Views:** Reusable components to minimize duplication.
+* **Async/await simulation:** Download / update progress uses `Task.sleep` to mimic network calls without external dependencies.
+
+### Trade-offs & Decisions
+* **Local JSON vs. real API:** A static bundle file avoids networking complexity, but obviously lacks live data.
+* **In-memory state only:** State resets on app relaunch; no persistence layer (Core Data / SwiftData) to keep the demo lightweight.
+
+### If I Had More Time
+* 🌐 Real API calls with URLSession + Combine, plus optimistic UI updates  
+* 🗄 **SwiftData** persistence so the library survives app restarts  
+* 🛠 Unit tests for `PluginStore` edge cases and UI tests with XCUITest  
+* 🎨 Polish: animate grid insertions/removals, add blur / parallax hero images  
+
+---
+
 ## 🚀 Getting Started
 
 ```bash
